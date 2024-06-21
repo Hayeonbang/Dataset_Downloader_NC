@@ -1,5 +1,7 @@
 # Data Downloader for Youtube-Human Annotation Dataset
 유튜브와 휴먼 어노테이션 데이터셋을 다운로드하기 위한 스크립트입니다. 
+> 데이터셋에 관한 자세한 설명은 [최종 발표 슬라이드](https://docs.google.com/presentation/d/1JzoVWzqFVYNkx6XQRSdILHz0U5Dt4oICPWp7WAYOvUY/edit?usp=sharing)를 참조해주세요.
+
 
 ```setup
 git clone https://github.com/Hayeonbang/nc-kaist_dataset_downloader.git
